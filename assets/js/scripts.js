@@ -637,9 +637,9 @@ PAGE JS
 	DEMO SWITCHER JS
 	*===================================*/
 	
-	$(window).on("load", function() {
-		$('body').prepend('<div id="demo_content" class="demo_switcher"></div>');
-		$("#demo_content").load("https://bestwebcreator.com/dhyana/demo/demo.html");
-	});
+	// $(window).on("load", function() {
+	// 	$('body').prepend('<div id="demo_content" class="demo_switcher"></div>');
+	// 	$("#demo_content").load("https://bestwebcreator.com/dhyana/demo/demo.html");
+	// });
 	
 })(jQuery);
